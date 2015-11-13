@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.meetup.com/SFVRCC/events/226516568/'
 title: "Let's Meetup for a night of VR & AR conversation and collaboration"
-datePublished: '2015-11-12T20:45:33.680Z'
-dateModified: '2015-11-12T03:08:47.929Z'
+datePublished: '2015-11-12T20:45:40.913Z'
+dateModified: '2015-11-12T20:45:33.680Z'
 sourcePath: _posts/2015-11-12-lets-meetup-for-a-night-of-vr-and-ar-conversation-and-collabo.md
 published: true
 inFeed: true
