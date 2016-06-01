@@ -1,7 +1,7 @@
 name: SFVRCC
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.75145
+typography_spectrum: 0.69172
 title: San Francisco Virtual Reality Creative Community
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#1ae1f6'
     - '#ffffff'
     - '#91818c'
-  brandStrength: 0.75
-  lightness: 0.293492725584656
-  saturation: 0.6036966643296182
-  rhythmicContrast: 0.6202543596737087
+  brandStrength: 0.5625
+  lightness: 0.4375
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
